@@ -24,7 +24,7 @@ public class ArraysHW {
         System.out.printf("%n" + "For Question 2. The output is: 2" + "%n");
         System.out.println("\n");
         //Question 3:
-        toPower(4,2);
+        toPower(6,3);
 
 
 
